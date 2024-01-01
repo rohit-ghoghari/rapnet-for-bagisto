@@ -18,5 +18,18 @@
     "require": {
         "php": "^8.1"
     },
+    "autoload": {
+        "psr-4": {
+            "Webbycrown\\RapnetBagisto\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webbycrown\\RapnetBagisto\\Providers\\RapnetServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
     "minimum-stability": "dev"
 }
