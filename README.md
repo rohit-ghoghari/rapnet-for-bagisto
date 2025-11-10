@@ -7,3 +7,9 @@
 ~~~
 composer require webbycrown/rapnet-for-bagisto
 ~~~
+
+---
+
+<div align="center">
+  <strong>Made with ❤️ by <a href="https://webbycrown.com">WebbyCrown</a></strong>
+</div>
