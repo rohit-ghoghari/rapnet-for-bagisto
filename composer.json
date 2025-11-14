@@ -1,18 +1,22 @@
 {
     "name": "webbycrown/rapnet-for-bagisto",
-    "description": "Rapnet for Bagisto",
+    "description": "RapNet Diamond Trading Network integration for Bagisto - Display and sell certified diamonds with real-time inventory access",
     "type": "library",
+    "version": "1.0.1",
     "license": "MIT",
+    "keywords": [
+        "bagisto",
+        "rapnet",
+        "diamonds",
+        "jewelry",
+        "e-commerce",
+        "laravel",
+        "webbycrown"
+    ],
     "authors": [
         {
             "name": "WebbyCrown Solutions",
             "email": "info@webbycrown.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/webbycrown/rapnet-for-bagisto"
         }
     ],
     "require": {
@@ -31,5 +35,5 @@
             "aliases": {}
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }

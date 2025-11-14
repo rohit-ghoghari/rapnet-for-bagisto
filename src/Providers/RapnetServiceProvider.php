@@ -1,6 +1,6 @@
 <?php
 
-namespace Cagartner\Correios\Providers;
+namespace Webbycrown\RapnetBagisto\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Routing\Router;
